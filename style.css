@@ -40,3 +40,9 @@ section {
 .dream-big {
     padding-top: 80px;
 }
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
