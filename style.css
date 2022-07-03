@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.faxible-container {
     display: flex;
 }
 
